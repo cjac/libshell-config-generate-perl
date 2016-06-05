@@ -1,0 +1,5 @@
+libshell-config-generate-perl (0.25-1) unstable; urgency=low
+
+  * Initial Release. (Closes: #778550)
+
+ -- C.J. Collier <cjcollier@linuxfoundation.org>  Sat, 4 Jun 2016 20:04:08 -0400
